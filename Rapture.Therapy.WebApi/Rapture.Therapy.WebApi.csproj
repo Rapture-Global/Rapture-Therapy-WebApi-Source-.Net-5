@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>f7448f2a-ebca-41ed-bbe1-5d489f3a6d8c</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eadent.Common\Eadent.Common.csproj" />
+  </ItemGroup>
 
 </Project>
